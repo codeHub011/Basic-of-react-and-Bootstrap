@@ -1,0 +1,22 @@
+input{
+    width: 100%;
+    background: rgb(215, 177, 177);
+    color: black;
+}
+
+.container{
+    text-align: left;
+}
+.kg-row{
+    margin: 10px 5px;
+}
+
+.kg-button{
+   min-width: 70px;
+   margin-left: 7px;
+}
+.kg1-button{
+   min-width: 70px;
+   padding-left: 10px;
+   margin-right: 2px;
+}
